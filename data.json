@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Vitor Albuquerque",
+      "type": "admin",
+      "master_key": "1233a"
+    },
+    {
+      "id": 2,
+      "name": "Gilva Maga",
+      "type": "editor",
+      "posts": [
+        "I just kicked my cat",
+        "Looking for incredible cheap fullstack developers"
+      ]
+    }
+  ]
+}

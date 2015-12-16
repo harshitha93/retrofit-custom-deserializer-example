@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Retrofit Custom Adapter Example</string>
+    <string name="admin">Admin</string>
+    <string name="click_the_button">Click the Button!</string>
+    <string name="normal">Normal</string>
+    <string name="load">Load</string>
+</resources>
