@@ -1,13 +1,13 @@
-package com.github.vrcca.retrofitcustomadapterexample;
+package com.github.vrcca.retrofitcustomdeserializerexample;
 
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.util.Log;
 import android.view.View;
 
-import com.github.vrcca.retrofitcustomadapterexample.model.User;
-import com.github.vrcca.retrofitcustomadapterexample.services.UserService;
-import com.github.vrcca.retrofitcustomadapterexample.services.serializers.UserResponseDeserializer;
+import com.github.vrcca.retrofitcustomdeserializerexample.model.User;
+import com.github.vrcca.retrofitcustomdeserializerexample.services.UserService;
+import com.github.vrcca.retrofitcustomdeserializerexample.services.serializers.UserResponseDeserializer;
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
 

@@ -1,4 +1,4 @@
-package com.github.vrcca.retrofitcustomadapterexample.model;
+package com.github.vrcca.retrofitcustomdeserializerexample.model;
 
 import java.util.ArrayList;
 import java.util.List;

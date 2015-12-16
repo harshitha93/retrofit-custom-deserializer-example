@@ -1,8 +1,8 @@
-package com.github.vrcca.retrofitcustomadapterexample.services.serializers;
+package com.github.vrcca.retrofitcustomdeserializerexample.services.serializers;
 
-import com.github.vrcca.retrofitcustomadapterexample.model.Admin;
-import com.github.vrcca.retrofitcustomadapterexample.model.Editor;
-import com.github.vrcca.retrofitcustomadapterexample.model.User;
+import com.github.vrcca.retrofitcustomdeserializerexample.model.Admin;
+import com.github.vrcca.retrofitcustomdeserializerexample.model.Editor;
+import com.github.vrcca.retrofitcustomdeserializerexample.model.User;
 import com.google.gson.Gson;
 import com.google.gson.JsonDeserializationContext;
 import com.google.gson.JsonDeserializer;

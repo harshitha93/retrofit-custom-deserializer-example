@@ -1,4 +1,4 @@
-package com.github.vrcca.retrofitcustomadapterexample.model;
+package com.github.vrcca.retrofitcustomdeserializerexample.model;
 
 public abstract class User {
 

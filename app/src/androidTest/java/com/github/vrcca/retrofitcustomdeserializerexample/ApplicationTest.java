@@ -1,4 +1,4 @@
-package com.github.vrcca.retrofitcustomadapterexample;
+package com.github.vrcca.retrofitcustomdeserializerexample;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;

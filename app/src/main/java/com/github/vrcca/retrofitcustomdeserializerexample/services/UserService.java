@@ -1,7 +1,7 @@
-package com.github.vrcca.retrofitcustomadapterexample.services;
+package com.github.vrcca.retrofitcustomdeserializerexample.services;
 
 
-import com.github.vrcca.retrofitcustomadapterexample.model.User;
+import com.github.vrcca.retrofitcustomdeserializerexample.model.User;
 
 import java.util.List;
 
